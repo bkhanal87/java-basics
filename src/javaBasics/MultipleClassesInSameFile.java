@@ -1,3 +1,5 @@
+// create multiple classes within the same source file
+
 package javaBasics;
 
 public class MultipleClassesInSameFile {
